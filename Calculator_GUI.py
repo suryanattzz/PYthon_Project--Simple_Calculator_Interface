@@ -1,6 +1,6 @@
 from tkinter import *
 
-# simple calculator
+# simple calculator UPI
 cal = Tk()
 cal.title("SIMPLE CALCULATOR")
 

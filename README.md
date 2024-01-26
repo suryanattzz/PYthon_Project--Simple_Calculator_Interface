@@ -30,4 +30,4 @@ The calculator has a simple graphical user interface with buttons for digits (0-
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot_2.png)
+![Screenshot 1](Calculator_GUI.png)

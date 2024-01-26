@@ -28,3 +28,6 @@ The calculator has a simple graphical user interface with buttons for digits (0-
 - Python 3.x
 - Tkinter (usually included in standard Python installations)
 
+## Screenshots
+
+![Screenshot 1](screenshots/Screenshot_2.png)
